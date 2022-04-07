@@ -11,7 +11,7 @@
 * Global, Users, Chats Top 10 played tracks stats
 * Multi-Language support
 
-
+ 
 # 🔗 An Overview
 
 Here's a brief high-level overview of the DARKMUSIC:
