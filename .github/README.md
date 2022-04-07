@@ -1,4 +1,4 @@
-<img src="https://te.legra.ph/file/7da7ede450cf260c01dfd.mp4" align="right" width="200" height="200"/>
+<img src="https://te.legra.ph/file/3198ea41c118ff3b35662.jpg" align="right" width="200" height="200"/>
 
 # DARKMUSIC <img src="https://img.shields.io/github/v/release/DARKEMPIRESL/DARKMUSIC?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
