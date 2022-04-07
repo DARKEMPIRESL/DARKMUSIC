@@ -72,7 +72,7 @@ shikhar@MacBook~ $ bash start
 
 
 
-<img src="https://te.legra.ph/file/173dabaf4d895b7f3755b.mp4" align="center">
+<img src="https://te.legra.ph/file/3198ea41c118ff3b35662.jpg" align="center">
 
 
 ## 🏷 Support
