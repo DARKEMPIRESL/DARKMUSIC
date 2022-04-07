@@ -45,7 +45,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 ## 🖇 Generating Pyrogram String Session
 
-- Generate a Pyrogram String Session via [Replit](https://replit.com/@darkempireslbots/DARK-MUSIC-STRING-GEN?v=1)
+- Generate a Pyrogram String Session via [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@darkempireslbots/DARK-MUSIC-STRING-GEN?v=1) ``Pyrogram``
 
 - Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/Pyro_SessionGen_bot)
 
