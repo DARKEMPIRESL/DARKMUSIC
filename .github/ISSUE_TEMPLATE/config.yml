@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: DARKS MUSIC SUPPORT
+    url: https://t.me/darkmusic_chanel
+    about: Direct chat on non-inquiries subjects.
+  - name: Documentation
+    url: https://www.slbots.org/
+    about: Documentation for getting started with bot.
