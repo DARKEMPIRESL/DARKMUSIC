@@ -15,7 +15,7 @@ from pyrogram.types import InlineKeyboardMarkup
 
 import config
 from DARKMUSIC import Carbon, YouTube, app
-from DARKMUSIC.core.call import Yukki
+from DARKMUSIC.core.call import DARK
 from DARKMUSIC.misc import db
 from DARKMUSIC.utils.database import (add_active_chat,
                                        add_active_video_chat,
@@ -127,7 +127,7 @@ async def stream(
         if count == 0:
             return
         else:
-            link = await Yukkibin(msg)
+            link = await DARKbin(msg)
             lines = msg.count("\n")
             if lines >= 17:
                 car = os.linesep.join(msg.split(os.linesep)[:17])
