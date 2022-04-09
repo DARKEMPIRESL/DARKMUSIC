@@ -63,7 +63,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 ```console
 shikhar@MacBook~ $ git clone https://github.com/DARKEMPIRESL/DARKMUSIC
-shikhar@MacBook~ $ cd YukkiMusicBot
+shikhar@MacBook~ $ cd DARKMUSIC
 shikhar@MacBook~ $ sudo bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
